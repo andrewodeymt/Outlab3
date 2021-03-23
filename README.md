@@ -4,6 +4,7 @@ Usage - java SpellChecker words.txt mydoc.txt
 
 
 Word to Replace: fanttic
+
 Did you mean:
 1. xanthic
 2. tantric
@@ -16,7 +17,8 @@ Did you mean:
 Enter integer: 6
 
 Word to Replace: fantatic
-Did you mean:
+
+id you mean:
 1. tantalic
 2. santalic
 3. fanatic

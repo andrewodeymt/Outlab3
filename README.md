@@ -1,6 +1,6 @@
 # Outlab3
 
-java SpellChecker words.txt mydoc.txt
+Usage - java SpellChecker words.txt mydoc.txt
 
 
 Word to Replace: fanttic

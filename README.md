@@ -18,7 +18,7 @@ Enter integer: 6
 
 Word to Replace: fantatic
 
-id you mean:
+Did you mean:
 1. tantalic
 2. santalic
 3. fanatic
